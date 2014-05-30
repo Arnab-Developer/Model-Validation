@@ -3,6 +3,7 @@ using System.Web.Mvc;
 
 namespace ModelValidation.Models
 {
+    // Example of model validation with attribute based programming.
     public class Registration
     {
         [Required(ErrorMessage = "Please enter name.")]
