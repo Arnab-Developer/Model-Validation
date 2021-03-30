@@ -1,5 +1,0 @@
-c:\users\arnab.roychowdhury\documents\visual studio 2010\Projects\ModelValidation\ModelValidation\bin\ModelValidation.dll
-c:\users\arnab.roychowdhury\documents\visual studio 2010\Projects\ModelValidation\ModelValidation\bin\ModelValidation.pdb
-c:\users\arnab.roychowdhury\documents\visual studio 2010\Projects\ModelValidation\ModelValidation\obj\Debug\ResolveAssemblyReference.cache
-c:\users\arnab.roychowdhury\documents\visual studio 2010\Projects\ModelValidation\ModelValidation\obj\Debug\ModelValidation.dll
-c:\users\arnab.roychowdhury\documents\visual studio 2010\Projects\ModelValidation\ModelValidation\obj\Debug\ModelValidation.pdb
