@@ -10,7 +10,8 @@ public string Name { get; set; }
 ```
 
 When this class has been used in the controller and view then automatically ASP.NET did validation
-with it. We need to check if the model is valid in the controller.
+with it. We need to check if the model is valid in the `ModelValidation.Controllers.RegistrationController` 
+controller at the time of saving data in the database.
 
 ```csharp
 if (ModelState.IsValid)
