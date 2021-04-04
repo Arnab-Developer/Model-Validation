@@ -3,7 +3,7 @@
 A demo for model validation in ASP.NET MVC. The validation attributes has been used in the 
 `ModelValidation.Models.Registration` model class. 
 
-```
+```csharp
 [Required(ErrorMessage = "Please enter name.")]
 [StringLength(20, ErrorMessage = "Name must be 20 char max.")]
 public string Name { get; set; }
@@ -12,7 +12,7 @@ public string Name { get; set; }
 When this class has been used in the controller and view then automatically ASP.NET did validation
 with it. We need to check if the model is valid in the controller.
 
-```
+```csharp
 if (ModelState.IsValid)
 {
 }
